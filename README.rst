@@ -10,7 +10,7 @@ GITTDiffusionCoefficient
         :target: https://pypi.python.org/pypi/gittdiffusioncoefficient
 
 
-Python package for estimating chemical diffusion coefficients from galvanostatic intermittent titration (GITT) data.
+Python package for estimating chemical diffusion coefficients from galvanostatic intermittent titration technique (GITT) data.
 
 * Free software: 3-clause BSD license
 * Documentation: (COMING SOON!) https://maak-sdu.github.io/gittdiffusioncoefficient.
